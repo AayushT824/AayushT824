@@ -8,7 +8,6 @@ I'm Aayush - a senior in Northeastern University's class of 2025! I am a Compute
 
 * 🌍  I'm based in New York, but attend University in Boston.
 * ✉️  You can contact me at [aayusht2003@gmail.com](mailto:aayusht2003@gmail.com)
-* 🚀  I'm currently working on building my own generative language model! (Repo coming soon)
 
 ### Skills
 
